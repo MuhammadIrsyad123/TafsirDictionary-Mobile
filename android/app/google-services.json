@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844440490171",
+    "project_id": "db-tafsirdictionary",
+    "storage_bucket": "db-tafsirdictionary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844440490171:android:9d1a480fcb7eff608ad99e",
+        "android_client_info": {
+          "package_name": "com.example.tafsirdictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844440490171-ae86hgue90ef98232eee0tb1n12rdb8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi_hm0XG5mQxuTel7_1tBbIswQcD7OEcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844440490171-ae86hgue90ef98232eee0tb1n12rdb8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
